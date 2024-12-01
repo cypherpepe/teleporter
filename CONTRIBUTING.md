@@ -17,7 +17,7 @@ To start developing on Teleporter, you'll need Solidity >= v0.8.25. [Foundry](ht
 
 ## Features
 
-- If you want to start a discussion about the development of a new feature or the modfiication of an existing one, start a thread under GitHub [discussions](https://github.com/ava-labs/teleporter/discussions/categories/ideas).
+- If you want to start a discussion about the development of a new feature or the modification of an existing one, start a thread under GitHub [discussions](https://github.com/ava-labs/teleporter/discussions/categories/ideas).
 - Post a thread about your idea and why it should be added to Teleporter.
 - Don't start working on a pull request until you've received positive feedback from the maintainers.
 
