@@ -86,7 +86,7 @@ To prevent anyone from calling the dApp's `updateMinTeleporterVersion`, which wo
     }
 ```
 
-Another example would be a dApp that has different roles and priveleges. `_checkTeleporterRegistryAppAccess` can be implemented to check whether the caller is a specific role.
+Another example would be a dApp that has different roles and privileges. `_checkTeleporterRegistryAppAccess` can be implemented to check whether the caller is a specific role.
 
 ```solidity
     function _checkTeleporterRegistryAppAccess() internal view virtual override {
